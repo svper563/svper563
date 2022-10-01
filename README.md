@@ -4,4 +4,4 @@ I am here to start building a portfolio as I continue my education in computer p
 
 I am currently learning the ropes with Python, and I am looking forward to expanding my knowledge and skills.
 
-I am excited to see where a career in programming can take me... 
+I am excited to see where a career in programming can take me.
