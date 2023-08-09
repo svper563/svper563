@@ -1,4 +1,4 @@
-Hey there, I am svper563.  I usually go by super563, but that was taken. :(
+Hey there, I am svper563. 
 
 I am here to start building a portfolio as I continue my education in computer programming.  
 
